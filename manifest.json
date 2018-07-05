@@ -1,0 +1,9 @@
+{
+  "name": "Ryser App",
+  "short_name": "Ryser",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#2196F3",
+  "theme_color": "#2196F3"
+}

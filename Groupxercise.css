@@ -1,0 +1,87 @@
+#content {
+	text-align: center;
+	padding-top: 10px;
+	/*text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);*/
+}
+body {
+	 background-size: cover;
+	 background-position: center;
+	 font-family: Lato;
+	 color: white;
+	 background: white;
+     background-attachment: fixed;
+
+}
+html {
+	height: 100%;
+	font-family: 'Varela Round', sans-serif;
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 5em;
+	font-color:black;
+}
+hr {
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2)
+}
+#Top_Logo{
+	width: 100px;
+	height: 100px;
+	padding: 5px;
+
+}
+#openTitle{
+	color: orange;
+	font-size: 40px;
+}
+#Friends{
+	color: orange;
+	font-size: 25px;
+}
+#addFriend{
+	color: dodgerblue;
+}
+#AddTitle{
+	color: orange;
+	font-size: 25px;
+}
+form{
+color:black;
+
+}
+#FakeFriend{
+	color: dodgerblue;
+	border-color: none;
+}
+#FakeFriendList{
+	color:orange;
+	border: solid;
+	border-radius: 40%;
+	position: fixed;
+	left:530px;
+	width: 200px;
+	padding: 5px 5px;
+	top:
+}
+#You{
+	color:dodgerblue;
+	border:solid;
+	border-radius: 40%;
+	position:fixed;
+	left:575px;
+	top:300px;
+	width: 100px;
+	padding: 5px 5px;
+}
+#Logo{
+	padding-top: 1px;
+	width:300px;
+	height:300px;
+	position: auto;
+
+}`
